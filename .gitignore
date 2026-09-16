@@ -1,0 +1,5 @@
+app.exe
+*.exe
+*.o
+.vscode/
+.idea/
